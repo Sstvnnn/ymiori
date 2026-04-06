@@ -16,7 +16,7 @@ export default function HomeTab() {
         {/* Retro Header Bar (Mobile only, hidden on desktop for layout) */}
         <div className="bg-[#ffb6c1] text-white font-mono font-bold px-4 py-1.5 flex justify-between items-center text-xs tracking-widest uppercase md:hidden border-b-4 border-[#ffb6c1]">
           <span>★ PROFILE.EXE</span>
-          <span>Lv.99</span>
+          <span>{">__<"}</span>
         </div>
 
         {/* LEFT: Avatar & Base Info */}
