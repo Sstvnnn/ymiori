@@ -157,7 +157,7 @@ function TosAndFeesView() {
           color="#ff8ba7"
           textColor="text-[#ff8ba7]"
           highlight
-          badge="HOT!"
+          //   badge="HOT!"
         />
 
         <motion.div
